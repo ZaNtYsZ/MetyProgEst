@@ -1,0 +1,14 @@
+C:\2do semestre UAM\Metodologia y progamación\ejercicio2\ejercicio2\bin\Debug\net8.0\ejercicio2.exe
+C:\2do semestre UAM\Metodologia y progamación\ejercicio2\ejercicio2\bin\Debug\net8.0\ejercicio2.deps.json
+C:\2do semestre UAM\Metodologia y progamación\ejercicio2\ejercicio2\bin\Debug\net8.0\ejercicio2.runtimeconfig.json
+C:\2do semestre UAM\Metodologia y progamación\ejercicio2\ejercicio2\bin\Debug\net8.0\ejercicio2.dll
+C:\2do semestre UAM\Metodologia y progamación\ejercicio2\ejercicio2\bin\Debug\net8.0\ejercicio2.pdb
+C:\2do semestre UAM\Metodologia y progamación\ejercicio2\ejercicio2\obj\Debug\net8.0\ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\2do semestre UAM\Metodologia y progamación\ejercicio2\ejercicio2\obj\Debug\net8.0\ejercicio2.AssemblyInfoInputs.cache
+C:\2do semestre UAM\Metodologia y progamación\ejercicio2\ejercicio2\obj\Debug\net8.0\ejercicio2.AssemblyInfo.cs
+C:\2do semestre UAM\Metodologia y progamación\ejercicio2\ejercicio2\obj\Debug\net8.0\ejercicio2.csproj.CoreCompileInputs.cache
+C:\2do semestre UAM\Metodologia y progamación\ejercicio2\ejercicio2\obj\Debug\net8.0\ejercicio2.dll
+C:\2do semestre UAM\Metodologia y progamación\ejercicio2\ejercicio2\obj\Debug\net8.0\refint\ejercicio2.dll
+C:\2do semestre UAM\Metodologia y progamación\ejercicio2\ejercicio2\obj\Debug\net8.0\ejercicio2.pdb
+C:\2do semestre UAM\Metodologia y progamación\ejercicio2\ejercicio2\obj\Debug\net8.0\ejercicio2.genruntimeconfig.cache
+C:\2do semestre UAM\Metodologia y progamación\ejercicio2\ejercicio2\obj\Debug\net8.0\ref\ejercicio2.dll
