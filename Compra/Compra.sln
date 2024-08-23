@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compra", "Compra\Compra.csproj", "{93C14EDF-EF8B-4AA8-855B-6ADA12164849}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcularNota", "CalcularNota\CalcularNota.csproj", "{3875D5D4-11F8-4E6D-8523-3BF4083CD282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93C14EDF-EF8B-4AA8-855B-6ADA12164849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C14EDF-EF8B-4AA8-855B-6ADA12164849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C14EDF-EF8B-4AA8-855B-6ADA12164849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C14EDF-EF8B-4AA8-855B-6ADA12164849}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3875D5D4-11F8-4E6D-8523-3BF4083CD282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3875D5D4-11F8-4E6D-8523-3BF4083CD282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3875D5D4-11F8-4E6D-8523-3BF4083CD282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3875D5D4-11F8-4E6D-8523-3BF4083CD282}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F93A723C-E040-4BE2-82E9-497983850661}
+	EndGlobalSection
+EndGlobal

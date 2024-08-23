@@ -1,0 +1,15 @@
+C:\2do semestre UAM\Metodología y programación estructurada\Compra\Compra\obj\Debug\net8.0\Compra.GeneratedMSBuildEditorConfig.editorconfig
+C:\2do semestre UAM\Metodología y programación estructurada\Compra\Compra\obj\Debug\net8.0\Compra.AssemblyInfoInputs.cache
+C:\2do semestre UAM\Metodología y programación estructurada\Compra\Compra\obj\Debug\net8.0\Compra.AssemblyInfo.cs
+C:\2do semestre UAM\Metodología y programación estructurada\Compra\Compra\obj\Debug\net8.0\Compra.csproj.CoreCompileInputs.cache
+C:\2do semestre UAM\Metodología y programación estructurada\Compra\Compra\obj\Debug\net8.0\Compra.sourcelink.json
+C:\2do semestre UAM\Metodología y programación estructurada\Compra\Compra\bin\Debug\net8.0\Compra.exe
+C:\2do semestre UAM\Metodología y programación estructurada\Compra\Compra\bin\Debug\net8.0\Compra.deps.json
+C:\2do semestre UAM\Metodología y programación estructurada\Compra\Compra\bin\Debug\net8.0\Compra.runtimeconfig.json
+C:\2do semestre UAM\Metodología y programación estructurada\Compra\Compra\bin\Debug\net8.0\Compra.dll
+C:\2do semestre UAM\Metodología y programación estructurada\Compra\Compra\bin\Debug\net8.0\Compra.pdb
+C:\2do semestre UAM\Metodología y programación estructurada\Compra\Compra\obj\Debug\net8.0\Compra.dll
+C:\2do semestre UAM\Metodología y programación estructurada\Compra\Compra\obj\Debug\net8.0\refint\Compra.dll
+C:\2do semestre UAM\Metodología y programación estructurada\Compra\Compra\obj\Debug\net8.0\Compra.pdb
+C:\2do semestre UAM\Metodología y programación estructurada\Compra\Compra\obj\Debug\net8.0\Compra.genruntimeconfig.cache
+C:\2do semestre UAM\Metodología y programación estructurada\Compra\Compra\obj\Debug\net8.0\ref\Compra.dll
