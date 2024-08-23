@@ -7,7 +7,7 @@
             string nombre;
             Console.WriteLine("Escribe tu primer nombre");
             nombre = Console.ReadLine();
-            Console.WriteLine("Hola " + nombre);
+            Console.WriteLine("Holaa! " + nombre);
         }
     }
 }

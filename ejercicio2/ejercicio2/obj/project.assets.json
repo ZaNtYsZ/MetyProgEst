@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\2do semestre UAM\\Metodologia y progamación\\ejercicio2\\ejercicio2\\ejercicio2.csproj",
+      "projectUniqueName": "C:\\2do semestre UAM\\Metodología y programación estructurada\\ejercicio2\\ejercicio2\\ejercicio2.csproj",
       "projectName": "ejercicio2",
-      "projectPath": "C:\\2do semestre UAM\\Metodologia y progamación\\ejercicio2\\ejercicio2\\ejercicio2.csproj",
+      "projectPath": "C:\\2do semestre UAM\\Metodología y programación estructurada\\ejercicio2\\ejercicio2\\ejercicio2.csproj",
       "packagesPath": "C:\\Users\\mena4\\.nuget\\packages\\",
-      "outputPath": "C:\\2do semestre UAM\\Metodologia y progamación\\ejercicio2\\ejercicio2\\obj\\",
+      "outputPath": "C:\\2do semestre UAM\\Metodología y programación estructurada\\ejercicio2\\ejercicio2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
