@@ -1,0 +1,11 @@
+C:\2do semestre UAM\Metodología y programación estructurada\ejercicio sesion 5\EvalueEdge\EvalueEdge\bin\Debug\EvalueEdge.exe.config
+C:\2do semestre UAM\Metodología y programación estructurada\ejercicio sesion 5\EvalueEdge\EvalueEdge\bin\Debug\EvalueEdge.exe
+C:\2do semestre UAM\Metodología y programación estructurada\ejercicio sesion 5\EvalueEdge\EvalueEdge\bin\Debug\EvalueEdge.pdb
+C:\2do semestre UAM\Metodología y programación estructurada\ejercicio sesion 5\EvalueEdge\EvalueEdge\obj\Debug\EvalueEdge.csproj.AssemblyReference.cache
+C:\2do semestre UAM\Metodología y programación estructurada\ejercicio sesion 5\EvalueEdge\EvalueEdge\obj\Debug\EvalueEdge.Form1.resources
+C:\2do semestre UAM\Metodología y programación estructurada\ejercicio sesion 5\EvalueEdge\EvalueEdge\obj\Debug\EvalueEdge.Properties.Resources.resources
+C:\2do semestre UAM\Metodología y programación estructurada\ejercicio sesion 5\EvalueEdge\EvalueEdge\obj\Debug\EvalueEdge.csproj.GenerateResource.cache
+C:\2do semestre UAM\Metodología y programación estructurada\ejercicio sesion 5\EvalueEdge\EvalueEdge\obj\Debug\EvalueEdge.csproj.CoreCompileInputs.cache
+C:\2do semestre UAM\Metodología y programación estructurada\ejercicio sesion 5\EvalueEdge\EvalueEdge\obj\Debug\EvalueEdge.exe
+C:\2do semestre UAM\Metodología y programación estructurada\ejercicio sesion 5\EvalueEdge\EvalueEdge\obj\Debug\EvalueEdge.pdb
+C:\2do semestre UAM\Metodología y programación estructurada\ejercicio sesion 5\EvalueEdge\EvalueEdge\obj\Debug\EvalueEdge.EvalueAge.resources
