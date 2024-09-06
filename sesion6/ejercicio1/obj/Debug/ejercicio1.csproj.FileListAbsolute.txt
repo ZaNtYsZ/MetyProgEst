@@ -1,0 +1,5 @@
+C:\2do semestre UAM\Metodología y programación estructurada\sesion6\ejercicio1\obj\Debug\ejercicio1.csproj.AssemblyReference.cache
+C:\2do semestre UAM\Metodología y programación estructurada\sesion6\ejercicio1\obj\Debug\ejercicio1.Form1.resources
+C:\2do semestre UAM\Metodología y programación estructurada\sesion6\ejercicio1\obj\Debug\ejercicio1.Properties.Resources.resources
+C:\2do semestre UAM\Metodología y programación estructurada\sesion6\ejercicio1\obj\Debug\ejercicio1.csproj.GenerateResource.cache
+C:\2do semestre UAM\Metodología y programación estructurada\sesion6\ejercicio1\obj\Debug\ejercicio1.csproj.CoreCompileInputs.cache
